@@ -1,0 +1,15 @@
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\obj\Debug\net6.0\task01_проверка_квадрат.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\obj\Debug\net6.0\task01_проверка_квадрат.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\obj\Debug\net6.0\task01_проверка_квадрат.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\obj\Debug\net6.0\task01_проверка_квадрат.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\obj\Debug\net6.0\task01_проверка_квадрат.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\bin\Debug\net6.0\task01_проверка_квадрат.exe
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\bin\Debug\net6.0\task01_проверка_квадрат.deps.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\bin\Debug\net6.0\task01_проверка_квадрат.runtimeconfig.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\bin\Debug\net6.0\task01_проверка_квадрат.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\bin\Debug\net6.0\task01_проверка_квадрат.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\obj\Debug\net6.0\task01_проверка_квадрат.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\obj\Debug\net6.0\refint\task01_проверка_квадрат.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\obj\Debug\net6.0\task01_проверка_квадрат.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\obj\Debug\net6.0\task01_проверка_квадрат.genruntimeconfig.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task01_проверка_квадрат\obj\Debug\net6.0\ref\task01_проверка_квадрат.dll
