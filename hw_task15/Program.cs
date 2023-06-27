@@ -7,6 +7,6 @@ if ((Num > 7)||(Num == 0)) {
     Console.WriteLine("Ошибка,введите число от 1 до 7.");
     goto start; }
 else    {
-    if (Num > 6) Console.WriteLine("Это выходной день.");
+    if (Num > 5) Console.WriteLine("Это выходной день.");
     else Console.WriteLine("Это будний день.");
     }
