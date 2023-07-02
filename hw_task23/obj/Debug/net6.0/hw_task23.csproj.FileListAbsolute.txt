@@ -1,0 +1,15 @@
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\bin\Debug\net6.0\hw_task23.exe
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\bin\Debug\net6.0\hw_task23.deps.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\bin\Debug\net6.0\hw_task23.runtimeconfig.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\bin\Debug\net6.0\hw_task23.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\bin\Debug\net6.0\hw_task23.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\obj\Debug\net6.0\hw_task23.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\obj\Debug\net6.0\hw_task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\obj\Debug\net6.0\hw_task23.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\obj\Debug\net6.0\hw_task23.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\obj\Debug\net6.0\hw_task23.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\obj\Debug\net6.0\hw_task23.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\obj\Debug\net6.0\refint\hw_task23.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\obj\Debug\net6.0\hw_task23.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\obj\Debug\net6.0\hw_task23.genruntimeconfig.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task23\obj\Debug\net6.0\ref\hw_task23.dll
