@@ -1,0 +1,15 @@
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\bin\Debug\net6.0\hw_task27.exe
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\bin\Debug\net6.0\hw_task27.deps.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\bin\Debug\net6.0\hw_task27.runtimeconfig.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\bin\Debug\net6.0\hw_task27.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\bin\Debug\net6.0\hw_task27.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\obj\Debug\net6.0\hw_task27.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\obj\Debug\net6.0\hw_task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\obj\Debug\net6.0\hw_task27.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\obj\Debug\net6.0\hw_task27.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\obj\Debug\net6.0\hw_task27.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\obj\Debug\net6.0\hw_task27.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\obj\Debug\net6.0\refint\hw_task27.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\obj\Debug\net6.0\hw_task27.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\obj\Debug\net6.0\hw_task27.genruntimeconfig.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task27\obj\Debug\net6.0\ref\hw_task27.dll
