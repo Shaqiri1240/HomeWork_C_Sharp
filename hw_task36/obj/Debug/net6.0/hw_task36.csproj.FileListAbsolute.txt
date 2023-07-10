@@ -1,0 +1,15 @@
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\obj\Debug\net6.0\hw_task36.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\obj\Debug\net6.0\hw_task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\obj\Debug\net6.0\hw_task36.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\obj\Debug\net6.0\hw_task36.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\obj\Debug\net6.0\hw_task36.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\bin\Debug\net6.0\hw_task36.exe
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\bin\Debug\net6.0\hw_task36.deps.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\bin\Debug\net6.0\hw_task36.runtimeconfig.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\bin\Debug\net6.0\hw_task36.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\bin\Debug\net6.0\hw_task36.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\obj\Debug\net6.0\hw_task36.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\obj\Debug\net6.0\refint\hw_task36.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\obj\Debug\net6.0\hw_task36.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\obj\Debug\net6.0\hw_task36.genruntimeconfig.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task36\obj\Debug\net6.0\ref\hw_task36.dll
