@@ -1,0 +1,15 @@
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\bin\Debug\net6.0\task48_2Darray_m+n.exe
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\bin\Debug\net6.0\task48_2Darray_m+n.deps.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\bin\Debug\net6.0\task48_2Darray_m+n.runtimeconfig.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\bin\Debug\net6.0\task48_2Darray_m+n.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\bin\Debug\net6.0\task48_2Darray_m+n.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\obj\Debug\net6.0\task48_2Darray_m+n.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\obj\Debug\net6.0\task48_2Darray_m+n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\obj\Debug\net6.0\task48_2Darray_m+n.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\obj\Debug\net6.0\task48_2Darray_m+n.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\obj\Debug\net6.0\task48_2Darray_m+n.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\obj\Debug\net6.0\task48_2Darray_m+n.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\obj\Debug\net6.0\refint\task48_2Darray_m+n.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\obj\Debug\net6.0\task48_2Darray_m+n.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\obj\Debug\net6.0\task48_2Darray_m+n.genruntimeconfig.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task48_2Darray_m+n\obj\Debug\net6.0\ref\task48_2Darray_m+n.dll

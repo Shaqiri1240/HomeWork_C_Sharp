@@ -1,0 +1,15 @@
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\obj\Debug\net6.0\hw_task47.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\obj\Debug\net6.0\hw_task47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\obj\Debug\net6.0\hw_task47.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\obj\Debug\net6.0\hw_task47.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\obj\Debug\net6.0\hw_task47.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\bin\Debug\net6.0\hw_task47.exe
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\bin\Debug\net6.0\hw_task47.deps.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\bin\Debug\net6.0\hw_task47.runtimeconfig.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\bin\Debug\net6.0\hw_task47.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\bin\Debug\net6.0\hw_task47.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\obj\Debug\net6.0\hw_task47.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\obj\Debug\net6.0\refint\hw_task47.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\obj\Debug\net6.0\hw_task47.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\obj\Debug\net6.0\hw_task47.genruntimeconfig.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task47\obj\Debug\net6.0\ref\hw_task47.dll

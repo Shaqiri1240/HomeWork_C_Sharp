@@ -1,0 +1,15 @@
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\obj\Debug\net6.0\task49_2x2.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\obj\Debug\net6.0\task49_2x2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\obj\Debug\net6.0\task49_2x2.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\obj\Debug\net6.0\task49_2x2.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\obj\Debug\net6.0\task49_2x2.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\bin\Debug\net6.0\task49_2x2.exe
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\bin\Debug\net6.0\task49_2x2.deps.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\bin\Debug\net6.0\task49_2x2.runtimeconfig.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\bin\Debug\net6.0\task49_2x2.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\bin\Debug\net6.0\task49_2x2.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\obj\Debug\net6.0\task49_2x2.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\obj\Debug\net6.0\refint\task49_2x2.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\obj\Debug\net6.0\task49_2x2.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\obj\Debug\net6.0\task49_2x2.genruntimeconfig.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\task49_2x2\obj\Debug\net6.0\ref\task49_2x2.dll
