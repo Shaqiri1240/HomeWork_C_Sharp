@@ -1,0 +1,15 @@
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\obj\Debug\net6.0\hw_task58.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\obj\Debug\net6.0\hw_task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\obj\Debug\net6.0\hw_task58.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\obj\Debug\net6.0\hw_task58.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\obj\Debug\net6.0\hw_task58.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\bin\Debug\net6.0\hw_task58.exe
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\bin\Debug\net6.0\hw_task58.deps.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\bin\Debug\net6.0\hw_task58.runtimeconfig.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\bin\Debug\net6.0\hw_task58.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\bin\Debug\net6.0\hw_task58.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\obj\Debug\net6.0\hw_task58.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\obj\Debug\net6.0\refint\hw_task58.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\obj\Debug\net6.0\hw_task58.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\obj\Debug\net6.0\hw_task58.genruntimeconfig.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task58\obj\Debug\net6.0\ref\hw_task58.dll

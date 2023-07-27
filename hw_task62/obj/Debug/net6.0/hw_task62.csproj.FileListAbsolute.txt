@@ -1,0 +1,15 @@
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\bin\Debug\net6.0\hw_task62.exe
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\bin\Debug\net6.0\hw_task62.deps.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\bin\Debug\net6.0\hw_task62.runtimeconfig.json
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\bin\Debug\net6.0\hw_task62.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\bin\Debug\net6.0\hw_task62.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\obj\Debug\net6.0\hw_task62.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\obj\Debug\net6.0\hw_task62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\obj\Debug\net6.0\hw_task62.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\obj\Debug\net6.0\hw_task62.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\obj\Debug\net6.0\hw_task62.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\obj\Debug\net6.0\hw_task62.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\obj\Debug\net6.0\refint\hw_task62.dll
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\obj\Debug\net6.0\hw_task62.pdb
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\obj\Debug\net6.0\hw_task62.genruntimeconfig.cache
+C:\Users\Владислав\Desktop\Study GB\C_Sharp\hw_task62\obj\Debug\net6.0\ref\hw_task62.dll
